@@ -1,0 +1,6 @@
+2026-11-24 INFO System started successfully
+2026-11-24 WARNING CPU usage is high
+2026-11-24 ERROR Disk space is low
+2026-11-24 INFO User logged in
+2026-11-24 CRITICAL Memory usage exceeded limit
+2026-11-24 ERROR Service failed
